@@ -28,8 +28,8 @@ The project is divided into three main parts:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/Handwritten-Equation-Solver.git
-cd Handwritten-Equation-Solver
+git clone https://github.com/devsingh31/Handwritten-Eq_solver.git
+cd Handwritten-Eq_solver
 pip install -r requirements.txt
 ```
 
@@ -57,6 +57,9 @@ Handwritten-Equation-Solver/
 ### Running Data Extraction
 
 Extract and preprocess images for training:
+
+https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
+
 
 ```bash
 python data_extr.py
@@ -115,5 +118,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Thanks to the developers of TensorFlow, OpenCV, and other libraries used in this project.
 
 ---
-
-Replace the placeholder links and usernames with your actual GitHub repository link and username. This README provides a clear overview of the project, instructions for setup and usage, and a directory structure for easy navigation.
